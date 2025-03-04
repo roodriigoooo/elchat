@@ -75,7 +75,7 @@ flowchart TB
 
 ### The Chatbots
 - Essentially the same as rasa, ManyChat, etc (A drag-and-drop interface for creating convo paths).
-- I think we should use rasa or similar APIs.
+- Built with rasa API.
 
 ### Lead Automation & Conversion
 - Data should be gathered naturally in conversations. Leads could be grouped by interests, needs, stage in funnel, etc.
