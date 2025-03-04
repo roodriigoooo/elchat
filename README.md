@@ -15,4 +15,4 @@ Working on:
 - Optimize and develop indexing and storing of both knowledge base documents and questions processed through vector embeddings. 
 - A graph-driven set of relationships and labels for later analysis. 
 - Versioning and partitioning of knowledge base documents. 
-
+- SQL and NoSQL Endpoints.
