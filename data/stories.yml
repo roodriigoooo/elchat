@@ -1,0 +1,18 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_question
+  - action: action_search_knowledge_base
+
+- story: human fallback
+  steps:
+  - intent: ask_question
+  - action: action_search_knowledge_base
+  - intent: request_human
+  - action: action_request_human
+
