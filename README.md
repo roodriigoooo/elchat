@@ -16,3 +16,5 @@ Working on:
 - A graph-driven set of relationships and labels for later analysis. 
 - Versioning and partitioning of knowledge base documents. 
 - SQL and NoSQL Endpoints.
+
+**Issue with module finding**
