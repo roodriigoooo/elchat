@@ -17,4 +17,3 @@ Working on:
 - Versioning and partitioning of knowledge base documents. 
 - SQL and NoSQL Endpoints.
 
-**Issue with module finding**
